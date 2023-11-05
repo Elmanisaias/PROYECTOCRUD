@@ -10,7 +10,7 @@
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-		<h2>BUSCAR</h2>
+		<h2>BUSCAR el nombre de la persona</h2>
 
 
 <?php include "php/busqueda.php"; ?>
