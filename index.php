@@ -11,8 +11,8 @@ session_start();
 	<div class="container">
 	<div class="row">
 	<div class="col-md-12">
-			<h2>[SISTEMA DE CRUD] CREAR, RETRIEVE, UCTUALIZAR &amp; ELIMAR</h2>
-			<p class="lead">Ejemplo de ver, agregar, actualizar, eliminar con PHP y MySQL</p>
+			<h2>[SISTEMA DE CRUD] CREAR, UCTUALIZAR &amp; ELIMINAR</h2>
+			<p class="lead">EJEMPLO CON GIT HUBL</p>
 			<p>Curso de Desarrollo Web</p>
 			
 			<br>
